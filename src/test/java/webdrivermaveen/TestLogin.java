@@ -11,6 +11,9 @@ public class TestLogin {
 		 WebDriver web=  new ChromeDriver();
 		 
 		 web.get("http://www.google.com");
+		 
+		 
+		 /****  code***/
 	}
 
 }
